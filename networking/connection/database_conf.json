@@ -1,0 +1,8 @@
+{
+	"dbms": "postgresql+psycopg2",
+	"hostname": "localhost",
+	"username": "stun_server",
+	"password": "sadf987#40274$%",
+	"database": "stun",
+	"port": "5432"
+}

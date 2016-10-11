@@ -1,0 +1,4 @@
+{
+	"dbms": "sqlite",
+	"database": "./db/services.sqlite3"
+}

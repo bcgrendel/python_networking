@@ -1,0 +1,18 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="4">
+            <File firstVisibleLine="231" xOffset="0" scrollWidth="1" startPos="7419" endPos="7443" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Brad\Desktop\DEV CURRENT\MotionCoder\networking\tcp.py" backupFilePath="" originalFileLastModifTimestamp="1413128897" />
+            <File firstVisibleLine="84" xOffset="0" scrollWidth="1369" startPos="3079" endPos="3079" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Brad\Desktop\DEV CURRENT\MotionCoder\networking\udp.py" backupFilePath="" originalFileLastModifTimestamp="1413128896" />
+            <File firstVisibleLine="57" xOffset="0" scrollWidth="1369" startPos="2177" endPos="2177" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Brad\Desktop\DEV CURRENT\MotionCoder\networking\multicast.py" backupFilePath="" originalFileLastModifTimestamp="1413128898" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1369" startPos="559" endPos="559" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Brad\Desktop\DEV CURRENT\MotionCoder\networking\stun_alchemy.py" backupFilePath="" originalFileLastModifTimestamp="1413128898" />
+            <File firstVisibleLine="243" xOffset="0" scrollWidth="1208" startPos="8285" endPos="8285" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Brad\Desktop\DEV CURRENT\MotionCoder\networking\stun_client.py" backupFilePath="" originalFileLastModifTimestamp="1413128898" />
+            <File firstVisibleLine="30" xOffset="0" scrollWidth="1369" startPos="1118" endPos="652" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Brad\Desktop\DEV CURRENT\MotionCoder\networking\stun_server.py" backupFilePath="" originalFileLastModifTimestamp="1413128897" />
+            <File firstVisibleLine="24" xOffset="0" scrollWidth="1369" startPos="1165" endPos="1165" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Brad\Desktop\DEV CURRENT\MotionCoder\networking\test_client.py" backupFilePath="" originalFileLastModifTimestamp="1413128897" />
+            <File firstVisibleLine="24" xOffset="0" scrollWidth="1369" startPos="1625" endPos="1625" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Brad\Desktop\DEV CURRENT\MotionCoder\networking\test_client2.py" backupFilePath="" originalFileLastModifTimestamp="1413128897" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1254" startPos="0" endPos="0" selMode="0" lang="Python" encoding="-1" filename="C:\Users\Brad\Desktop\DEV CURRENT\MotionCoder\networking\alchemy_test.py" backupFilePath="" originalFileLastModifTimestamp="1413128899" />
+        </mainView>
+        <subView activeIndex="0">
+            <File firstVisibleLine="148" xOffset="0" scrollWidth="627" startPos="1437" endPos="1437" selMode="0" lang="MS INI file" encoding="-1" filename="C:\usr\speechcoder_ext\grammar\grammar.ini" backupFilePath="" originalFileLastModifTimestamp="1411241371" />
+        </subView>
+    </Session>
+</NotepadPlus>
